@@ -45,7 +45,7 @@
 ## 🛠 How to Use This Course
 
 ### Prerequisites
-- Basic JavaScript knowledge (complete [30 Days of JavaScript](/https://github.com/30daysofjavascript/30-Days-Of-javascript) first)
+- Basic JavaScript knowledge (complete [30 Days of JavaScript](https://github.com/30daysofjavascript/30-Days-Of-javaScript) first)
 - Node.js 18+ installed
 
 ### Setup
