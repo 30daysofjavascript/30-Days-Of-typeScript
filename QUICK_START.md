@@ -9,7 +9,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/30-Days-of-TypeScript.git
+git clone https://github.com/30daysofjavascript/30-Days-of-TypeScript.git
 cd 30-Days-of-TypeScript
 
 # Install TypeScript and ts-node

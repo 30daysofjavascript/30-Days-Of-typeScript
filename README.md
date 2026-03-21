@@ -45,13 +45,13 @@
 ## 🛠 How to Use This Course
 
 ### Prerequisites
-- Basic JavaScript knowledge (complete [30 Days of JavaScript](../30-Days-of-JavaScript/) first)
+- Basic JavaScript knowledge (complete [30 Days of JavaScript](/https://github.com/30daysofjavascript/30-Days-Of-javascript) first)
 - Node.js 18+ installed
 
 ### Setup
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/30-Days-of-TypeScript.git
+git clone https://github.com/30daysofjavascript/30-Days-of-TypeScript.git
 cd 30-Days-of-TypeScript
 
 # Install TypeScript globally
