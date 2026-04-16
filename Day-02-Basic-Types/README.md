@@ -122,12 +122,7 @@ el.textContent; // ✅ No null check needed
 
 ---
 
-## 🔗 Further Reading
 
-- [TypeScript Handbook — Basic Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
-- [TypeScript Handbook — never](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#the-never-type)
-
----
 
 ## ⏭️ Next Up
 

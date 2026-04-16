@@ -85,10 +85,5 @@ Open `index.ts` and complete the exercises at the bottom of the file.
 
 ---
 
-## 🔗 Further Reading
 
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-- [TypeScript Playground](https://www.typescriptlang.org/play)
-- [Total TypeScript](https://www.totaltypescript.com)
-- [Type Challenges](https://github.com/type-challenges/type-challenges)
 

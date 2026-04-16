@@ -68,12 +68,6 @@ Open `index.ts` and complete the exercises at the bottom of the file.
 
 ---
 
-## 🔗 Further Reading
-
-- [TypeScript Handbook — Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html)
-- [TypeScript Playground](https://www.typescriptlang.org/play)
-
----
 
 ## ⏭️ Next Up
 

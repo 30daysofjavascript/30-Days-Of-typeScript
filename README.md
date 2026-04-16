@@ -89,6 +89,3 @@ By the end you will:
 
 ---
 
-## 📄 License
-
-MIT — free to use, share, and modify.
