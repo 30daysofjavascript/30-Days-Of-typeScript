@@ -1,6 +1,6 @@
 # 🚀 30 Days of TypeScript — Beginner to Advanced
 
-> A complete, production-grade TypeScript course covering every concept from zero to expert.
+> A complete, TypeScript course covering every concept from zero to expert.
 > Every day includes **fully typed code**, **detailed README**, **comments**, and **exercises**.
 
 ---
